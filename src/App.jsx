@@ -191,6 +191,7 @@ export default function App() {
                 <li>Bootstrap and Tailwind CSS</li>
                 <li>React JS</li>
                 <li>Git</li>
+                <li>Figma</li>
               </ul>
             </motion.div>
             <motion.div variants={fadeUp} initial="hidden" whileInView="show" viewport={{ once: true }} className="p-6 rounded-2xl border border-gray-200 dark:border-gray-800">
