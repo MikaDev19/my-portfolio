@@ -180,10 +180,10 @@ export default function App() {
       {/* Skills */}
       <section id="skills" className="py-16 bg-gray-50 dark:bg-gray-900/40">
         <div className="container">
-          <motion.h2 variants={fadeUp} initial="hidden" whileInView="show" viewport={{ once: true }} className="text-2xl md:text-3xl font-bold mb-6">Programming Skills</motion.h2>
+          <motion.h2 variants={fadeUp} initial="hidden" whileInView="show" viewport={{ once: true }} className="text-2xl md:text-3xl font-bold mb-6">Skills</motion.h2>
           <div className="grid md:grid-cols-2 gap-6">
             <motion.div variants={fadeUp} initial="hidden" whileInView="show" viewport={{ once: true }} className="p-6 rounded-2xl border border-gray-200 dark:border-gray-800">
-              <h3 className="font-semibold mb-3">QA Skills</h3>
+              <h3 className="font-semibold mb-3">Progarmming Skills</h3>
               <ul className="list-disc ml-5 space-y-1 text-gray-700 dark:text-gray-300">
                 <li>WordPress</li>
                 <li>ACF (Advanced Custom Fields)</li>
